@@ -30,11 +30,13 @@ Build portfolio-ready design case studies
 📸 Screenshots
 
 Skincare Moodbaord
+<img width="650" height="654" alt="Screenshot 2025-11-20 125927" src="https://github.com/user-attachments/assets/10190924-aa27-4c98-81a8-ecdc57678b97" />
 
-Screenshot 2025-11-20 125927
 Makeup Moodboard
+<img width="898" height="898" alt="Screenshot 2025-11-20 181408" src="https://github.com/user-attachments/assets/867b7ae7-8b2b-4994-a527-ba82a5e13e51" />
+<img width="903" height="902" alt="Screenshot 2025-11-20 181428" src="https://github.com/user-attachments/assets/cda1f71c-6457-4851-8df7-9b404337dd4c" />
 
-Screenshot 2025-11-20 181408 Screenshot 2025-11-20 181428
+
 Other Projects(Moodboards) i've worked on:
 
 Screenshot 2025-11-22 143113 Screenshot 2025-11-22 125731 Screenshot 2025-11-22 125500
