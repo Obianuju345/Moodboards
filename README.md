@@ -1,45 +1,50 @@
-# Moodboards
+ Moodboards
 
-Personal-project--Moodboards
-Makeup & Skincare Mood Board – Design Project
+Personal-project Moodboards
+Makeup & Skincare Mood Board :  Design Project
 A creative design project focused on developing visual direction and brand identity concepts for beauty-related platforms, specifically makeup and skincare.
 
-📌 Project Overview
+Project Overview
 This project consists of two digital mood boards created to explore and define visual aesthetics for:
 
-A makeup brand concept
-A skincare brand concept
-The mood boards were designed to capture the emotional tone, color palette, typography, and overall visual style that could be used in future website or mobile app designs.
+A Skincare Brand concept
 
-🎨 Makeup Mood Board
-The makeup mood board focuses on bold, confident, and luxurious visual themes. It explores rich color palettes, high-contrast imagery, modern typography, and expressive beauty photography to communicate glamour and empowerment.
+- The mood boards were designed to capture the emotional tone, color palette, typography, and overall visual style that could be used in future website or mobile app designs.
 
-🌿 Skincare Mood Board
-The skincare mood board reflects a calm, clean, and minimal aesthetic. It uses soft neutral colors, natural textures, and balanced spacing to convey purity, wellness, and simplicity — key qualities for skincare branding and user trust.
+Makeup Mood Board
 
-🛠️ Tools Used
-Canva
-Image research & visual curation
-Design principles (color theory, contrast, hierarchy, spacing)
+- The makeup mood board focuses on bold, confident, and luxurious visual themes. It explores rich color palettes, high-contrast imagery, modern typography, and expressive beauty photography to communicate glamour and empowerment.
+
+Skincare Mood Board
+
+- The skincare mood board reflects a calm, clean, and minimal aesthetic. It uses soft neutral colors, natural textures, and balanced spacing to convey purity, wellness, and simplicity — key qualities for skincare branding and user trust.
+
+Tools Used: 
+
+- Canva
+- Image research & visual curation
+- Design principles 
+  
 Purpose of the Project
 
-Practice UI/UX and visual design fundamentals
-Develop branding and aesthetic consistency
-Improve creative direction and layout composition
-Build portfolio-ready design case studies
-📸 Screenshots
+- Practice UI/UX and visual design fundamentals
+- Develop branding and aesthetic consistency
+- Improve creative direction and layout composition
+- Build portfolio-ready design case studies
+  
+   Screenshots
 
-Skincare Moodbaord
+- Skincare Moodbaord
 
 <img width="650" height="654" alt="Screenshot 2025-11-20 125927" src="https://github.com/user-attachments/assets/10190924-aa27-4c98-81a8-ecdc57678b97" />
 
-Makeup Moodboard
+- Makeup Moodboard
 
 <img width="898" height="898" alt="Screenshot 2025-11-20 181408" src="https://github.com/user-attachments/assets/867b7ae7-8b2b-4994-a527-ba82a5e13e51" />
 <img width="903" height="902" alt="Screenshot 2025-11-20 181428" src="https://github.com/user-attachments/assets/cda1f71c-6457-4851-8df7-9b404337dd4c" />
 
 
-Other Projects(Moodboards) i've worked on:
+- Other Projects(Moodboards) i've worked on:
 
 <img width="428" height="539" alt="Screenshot 2025-11-22 143223" src="https://github.com/user-attachments/assets/11947197-6dc4-479e-9b32-8cc65b8f4b91" />
 <img width="465" height="584" alt="Screenshot 2025-11-22 124811" src="https://github.com/user-attachments/assets/918a228a-cf71-446f-9ab9-9401dcc9f5ea" />
